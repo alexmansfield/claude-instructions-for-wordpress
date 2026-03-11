@@ -1,2 +1,2 @@
-# claude-code-markdown
-A collection of markdown files for working with Claude Code. 
+# claude-instructions-for-wordpress
+A collection of markdown instruction files for working with WordPress in Claude Code.
